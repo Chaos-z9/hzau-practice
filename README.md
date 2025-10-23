@@ -9,7 +9,7 @@ Some C++ qusetions from the hzau Computer Science students homework.(I get from 
 
 ## 项目包含
 ### 🎯 华农练习库
-[查看仓库]()
+[查看仓库](https://github.com/Chaos-z9/hzau-practice)
 -算法：对撞指针，快慢指针，标记法（哈希思想），冒泡排序，快速排序
 -1：四位正整数求各位数字之和
 -2：求三角形面积

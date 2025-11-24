@@ -8,7 +8,7 @@ Some C++ qusetions from the hzau Computer Science students homework.(I get from 
 - **开发工具**:Visual Studio2022 ,Github,VS Code,CodeBlocks
 
 ## 项目包含
-### 🎯 华农练习库
+### 🎯 华农练习题
 [查看仓库](https://github.com/Chaos-z9/hzau-practice)
 -**算法**：对撞指针，快慢指针，标记法（哈希思想），冒泡排序，快速排序
 
@@ -33,6 +33,8 @@ Some C++ qusetions from the hzau Computer Science students homework.(I get from 
 -**10**：统计候选人得票
 
 -**11**：结构体数组的排序
+
+### 🎯 华农SPOC课程例题
 
 ### 📚 反思
 - **精通题型**: 字符串处理、数据结构
